@@ -7,9 +7,8 @@ def display_rainbow (colors)
   print_letter_color(letter[3],color[3])
   print_letter_color(letter[4],color[4])
   print_letter_color(letter[5],color[5])
-  
-end 
+end
 
 def print_letter_color (letter, color)
-  print letter + color 
-end 
+  print letter + color
+end
