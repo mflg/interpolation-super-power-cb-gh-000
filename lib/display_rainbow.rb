@@ -10,5 +10,4 @@ def display_rainbow (colors)
   print letters[6] + colors[6]
 end
 
-colors2 = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-display_rainbow (colors2)
+display_rainbow (['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
