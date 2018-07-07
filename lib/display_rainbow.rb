@@ -9,3 +9,6 @@ def display_rainbow (colors)
   print letters[5] + colors[5]
   print letters[6] + colors[6]
 end
+
+colors2 = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+display_rainbow (colors2)
